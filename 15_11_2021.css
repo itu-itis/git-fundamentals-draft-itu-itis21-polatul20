@@ -1,4 +1,9 @@
  h1 {
+       text-align: center;
+       border: thick solid green;
+       text-decoration: none;
+       padding: 1ex;
+       width: 50%;
        color: red;
        font-size: 24 pt;
        text-decoration: underline;
@@ -28,4 +33,8 @@
       padding: 1ex; 
       width: 40%;
 
+  }
+  p.centered {
+      text-align: center;
+      width: 50%;
   }
